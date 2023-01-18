@@ -1,3 +1,5 @@
+# Ecommerce website Data Model
+
 ## Category Table 
 - category_id (bigserial primary key not null)
 - category_name (varchar(40))
