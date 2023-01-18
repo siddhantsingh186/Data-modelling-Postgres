@@ -8,6 +8,7 @@ CREATE TABLE customer(
     customer_email_password varchar(255) NOT NULL
 );
 
+
 CREATE TABLE wallet(
 	wallet_id bigserial primary key not null,
 	customer_id bigserial not null,
